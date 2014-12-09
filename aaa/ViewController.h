@@ -11,5 +11,12 @@
 @interface ViewController : UIViewController
 
 
+{
+}
+-(IBAction)push1;
+-(IBAction)push2;
+-(IBAction)push3;
+
+
 @end
 
